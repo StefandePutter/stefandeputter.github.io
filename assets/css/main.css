@@ -3136,3 +3136,8 @@ input, select, textarea {
 					}
 
 	}
+.singleLine {
+	height: 0;
+	top: 0;
+	margin: 1em 0;
+}
